@@ -1,4 +1,4 @@
-r## Primera charla
+## Primera charla
 
 El objetivo de esta charla es introducirlas a los desarrolladores, y ademas, sentar la filosofia de el gropo de trabajo, asimismo, se pretende que todos los integrantes del equipo esten enterados de las practicas de sus companeros, para asi enrriquecerce y crecer junto con ellos.
 
